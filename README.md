@@ -11,7 +11,7 @@
 
 ## Table of Contents
   - [Updated Content](#UpdatedContent)
-  - [Background](#background)
+  - [Description](#description)
   - [Install](#install)
   
 ## UpdatedContent
@@ -21,8 +21,8 @@
   The proposal of project
   
   The Powerpoint of presentation
-## Background
-  non-compeleted
+## Description
+  Ice Battle ​is a co-op mobile game that supports 2 to 4 players to play on the same screen. This game uses several elements of a survival game with last-man-standing gameplay. Players will control different roles to crush other people in the melting ice to get the chance of winning.
 ## Install
   non-compeleted
   

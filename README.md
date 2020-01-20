@@ -4,6 +4,10 @@
   Meeting Time: Wednesday 6:30pm - 8:30pm  
   
   Meeting Location: HP 5151  
+  
+  Project name: Ice Battle
+  
+  Project type: offline mobile game
 
 ## Table of Contents
   - [Updated Content](#UpdatedContent)

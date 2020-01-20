@@ -13,7 +13,9 @@
 ## UpdatedContent
 ### Updated in Week 1
   The group information
+  
   The proposal of project
+  
   The Powerpoint of presentation
 ## Background
   non-compeleted

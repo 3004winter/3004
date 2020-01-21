@@ -16,11 +16,12 @@
   
 ## UpdatedContent
 ### Updated in Week 1
-  The group information
-  
-  The proposal of project
-  
-  The Powerpoint of presentation
+Delieverable
+    comp3004-d0_Sudo.pdf  :  The group information
+    Comp3004-d1_Ice-Battle.pdf : The proposal of project
+    Ice Battle.pdf : The Powerpoint of presentation
+
+
 ## Description
   Ice Battle ​is a co-op mobile game that supports 2 to 4 players to play on the same screen. This game uses several elements of a survival game with last-man-standing gameplay. Players will control different roles to crush other people in the melting ice to get the chance of winning.
 ## Install

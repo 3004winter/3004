@@ -17,9 +17,9 @@
 ## UpdatedContent
 ### Updated in Week 1
 Delieverable
-    comp3004-d0_Sudo.pdf  :  The group information
-    Comp3004-d1_Ice-Battle.pdf : The proposal of project
-    Ice Battle.pdf : The Powerpoint of presentation
+   comp3004-d0_Sudo.pdf  :  The group information
+   Comp3004-d1_Ice-Battle.pdf : The proposal of project
+   Ice Battle.pdf : The Powerpoint of presentation
 
 
 ## Description

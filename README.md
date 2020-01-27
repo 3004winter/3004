@@ -23,6 +23,8 @@ Delieverable
    Comp3004-d1_Ice-Battle.pdf : The proposal of project
    
    Ice Battle.pdf : The Powerpoint of presentation
+   
+   team members' log files 
 
 
 ## Description

@@ -8,6 +8,8 @@
   Project name: Ice Battle
   
   Project type: offline mobile game
+  
+  Main developing environment: Unity
 
 ## Table of Contents
   - [Updated Content](#UpdatedContent)

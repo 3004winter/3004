@@ -1,5 +1,7 @@
 # 3004 Group for Winter 2020
-  Group name:  Sudo 
+  Group Name:  Sudo 
+  
+  By Ziwen Wang, Lilian Wang, Liyongshi Chen, Ruonan Li
   
   Meeting Time: Wednesday 6:30pm - 8:30pm  
   

@@ -16,6 +16,7 @@
 ## Table of Contents
   - [Updated Content](#UpdatedContent)
   - [Description](#description)
+  - [To do list](#TodoList)
   - [Install](#install)
   
 ## UpdatedContent
@@ -32,10 +33,23 @@ Delieverable
    
  ### Updated in Week 2
    Unity Version: 2018.4.16f1(LTS)
+  
  
 
 ## Description
   Ice Battle ​is a co-op mobile game that supports 2 to 4 players to play on the same screen. This game uses several elements of a survival game with last-man-standing gameplay. Players will control different roles to crush other people in the melting ice to get the chance of winning.
+  
+## Todolist
+- [ ] Graphic interface
+- [ ] Game object
+- [ ] Game object <- Player Object(getState())
+- [ ] Game object <- Props Object
+- [ ] Game object <- Setting Object(optional)
+- [ ] Observer <- Ice size(update())
+- [ ] High-level UML
+- [ ] User case
+- [ ] Sequence Diagram
+
 ## Install
   non-compeleted
   
